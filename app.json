@@ -12,28 +12,28 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": "19633473"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": "b5bc81b88d7ecdd6f5ea738bfedf2158"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": "5471102534:AAHU4caf823Lh8Hg4AEC8fRJt9ULIcYsu1g"
+      "value": ""
     },
     "BOT_USERNAME": {
       "description": "Username of your Bot without @ , Only give if you want auto starts forwarding when heroku restarts",
-      "value": "books_forwardbot",
+      "value": "",
       "required": false
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": "-1001509593023"
+      "value": ""
     },
     "DATABASE_URI": {
       "description": "Get this from cloud.mongodb.com",
-      "value": "mongodb+srv://rajangam:rajangam@rajangamr.5g4z1.mongodb.net/?retryWrites=true&w=majority"
+      "value": ""
     },
     "DATABASE_NAME": {
       "description": "Database cluster name",
@@ -46,11 +46,11 @@
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": "1901270911"
+      "value": ""
     },
     "SESSION": {
       "description": "Pyrogram string Session https://repl.it/@subinps/getStringName",
-      "value": "BQAYRYLJkXR_haFGg6htWVl1CCtysS9yLwhnEvsXScEhWnagMqbyfSUKRQkFq8Pdfn_1uZZsSiU6TSmmS0uuHF4NBYzkN1yYQEeRvPkgxV9nXRCZs2fSlNwGrT41wwygGOkV31v4xrjnGDYvjIbtdvG5XjsmvpNP2N0CdHEelOGPVqKCO8XtUEcMLGqCSJhz41yHCRKHrfXG_o2tUjiXQ9Hb30vsZglnT6RNnZkMSkh9w-SR4TC075mIUMA0cYl-46QgaW6uRol9A4LDR9GAez5pRiFoa8xWcGhktC3_s60eBpbkTbGSHHXlQLh45T16UG_ryjlo7Y4C6zXojRksyPCmcVMXfwA"
+      "value": ""
     }
   },
   "formation": {
